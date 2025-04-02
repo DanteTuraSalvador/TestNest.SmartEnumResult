@@ -16,7 +16,7 @@ By using SmartEnum for type-safe enums and the Result pattern for outcome handli
 ## 📌 Core Implementation
 
 ### 🔹 CheckInOut Value Object with Result Pattern 
-        see Result pattern : https://github.com/DanteTuraSalvador/TestNest.ResultPatterns
+        See the Result pattern: [https://github.com/DanteTuraSalvador/TestNest.ResultPatterns](https://github.com/DanteTuraSalvador/TestNest.ResultPatterns)
 ```csharp
 public sealed class CheckInOut : ValueObject
 {
